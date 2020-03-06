@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/mgkanani/mgkanani.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Writing Unit test when K8s client API is used](https://github.com/mgkanani/mgkanani.github.io/blob/master/k8s_api_server_unit_tests.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Writing Unit test when K8s client API is used](https://github.com/mgkanani/mgkanani.github.io/blob/master/k8s_api_server_unit_tests.md) and ![Image](src)
+[url-text](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
