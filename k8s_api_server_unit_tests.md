@@ -57,7 +57,7 @@ func TestListPods(t *testing.T) {
 		newPod("myNS", "mypod"),
 	)
 	
-  expected := []string{{
+  expected := []string{
 		"pod-1",
 		"pod-2",
 	}
